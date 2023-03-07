@@ -27,6 +27,5 @@ The first landing page contain the comapies name and a nav bar containing 4 sect
 
 Apart from the above main features, this website contain beautiful tasitions like when we hover on the landing images they use to expad a bit and provide some information. Apart from this one of the best feature is engaging *carousel* that is designed with the help of javascript.
 
-Following is the interface of the website:
 
-![This is an image](https://myoctocat.com/assets/images/C:/Users/Nidhi/Pictures/Screenshots/Screenshot(38).png)
+
