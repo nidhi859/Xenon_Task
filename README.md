@@ -6,16 +6,16 @@ My theme is ***Ecommerce***
 in this Readme you will get to know about the languages that i've used and how to run run this repository on desktop or any mobile device...
 
 *LANGUAGES that i've used :-*
-a)HTML
-b)CSS
-c)Javascript
-d)python
+a)HTML 
+b)CSS 
+c)Javascript 
+d)python 
 
 *This is basically a 3 page site working perfectly with desktop version, the woking is explained below:*
 
 The first landing page contain the comapies name and a nav bar containing 4 sections as Account(in which you can signUp or login into your account), Categories, Reviews and Contact. and on the top right corner all the social media handles of the company are mentioned.
 
-###Features of the website:
+### Features of the website:
 
 1. Account: when we click on the account button it will direct us to the signup and login page. This page is connected to the mysql database. Here user can login to his/her account or create a new account for the companies website.
 
